@@ -15,5 +15,7 @@
       "dom.iterable",
       "scripthost"
     ]
-  }
+  },
+  "exclude": ["dist","node_modules"]
+
 }

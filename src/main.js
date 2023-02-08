@@ -8,6 +8,7 @@ Vue.config.productionTip = false
 import router from '@/router'
 import store from '@/store'
 import "@/mock/mockServe.js"
+import "swiper/css/swiper.css"
 
 new Vue({
   render: h => h(App),
